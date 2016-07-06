@@ -1,0 +1,17 @@
+﻿body {
+  margin-top: 70px;
+}
+
+.table-responsive > .table
+{
+  background-color: transparent;
+}
+
+<style type="text/css">
+  .table td {
+    text-align: center;
+  }
+  .table th {
+    text-align: center;
+  }
+</style>
